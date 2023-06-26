@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakshamgiri2023
-- 👀 I’m interested in ...codding
+- 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...java programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sakshamgiri500@gmail.com
