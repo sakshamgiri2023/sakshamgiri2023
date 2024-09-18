@@ -1,7 +1,8 @@
 
-   # Visitor Counter
+   # Visitor Count
+<img src="https://komarev.com/ghpvc/?username=sakshamgiri&color=blue" alt="Visitor Count" style="width:300px;"/>
 
-  <img src="https://profile-counter.glitch.me/sakshamgiri2023/count.svg" alt="Visitor Count" />
+ 
   
 
 
